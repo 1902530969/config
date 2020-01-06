@@ -12,7 +12,7 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:8084  # 增加服务追踪的配置
+        url: http://localhost:8085  # 增加服务追踪的配置
 
 
 server:
